@@ -1,0 +1,11 @@
+
+One possible solution for nQueens problem:
+
+Place Queen 1 at (1, 1)
+Place Queen 2 at (2, 7)
+Place Queen 3 at (3, 5)
+Place Queen 4 at (4, 8)
+Place Queen 5 at (5, 3)
+Place Queen 6 at (6, 6)
+Place Queen 7 at (7, 4)
+Place Queen 8 at (8, 2)
